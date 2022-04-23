@@ -1,4 +1,3 @@
-const req = require('express/lib/request');
 const { User, Thought } = require('../models');
 
 const userController = {
